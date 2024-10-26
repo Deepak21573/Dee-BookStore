@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "name": "The Great Gatsby",
+        "title": "A Novel by F. Scott Fitzgerald",
+        "price": 10.99,
+        "category": "Fiction",
+        "imageLink": "https://example.com/images/great-gatsby.jpg"
+    },
+    {
+        "id": "2",
+        "name": "To Kill a Mockingbird",
+        "title": "A Novel by Harper Lee",
+        "price": 8.99,
+        "category": "Classic",
+        "imageLink": "https://example.com/images/to-kill-a-mockingbird.jpg"
+    },
+    {
+        "id": "3",
+        "name": "1984",
+        "title": "A Novel by George Orwell",
+        "price": 7.99,
+        "category": "Dystopian",
+        "imageLink": "https://example.com/images/1984.jpg"
+    },
+    {
+        "id": "4",
+        "name": "The Catcher in the Rye",
+        "title": "A Novel by J.D. Salinger",
+        "price": 9.99,
+        "category": "Literature",
+        "imageLink": "https://example.com/images/catcher-in-the-rye.jpg"
+    },
+    {
+        "id": "5",
+        "name": "The Lord of the Rings",
+        "title": "A Trilogy by J.R.R. Tolkien",
+        "price": 25.99,
+        "category": "Fantasy",
+        "imageLink": "https://example.com/images/lord-of-the-rings.jpg"
+    },
+    {
+        "id": "6",
+        "name": "The Alchemist",
+        "title": "A Novel by Paulo Coelho",
+        "price": 11.99,
+        "category": "Adventure",
+        "imageLink": "https://example.com/images/the-alchemist.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Pride and Prejudice",
+        "title": "A Novel by Jane Austen",
+        "price": 6.99,
+        "category": "Romance",
+        "imageLink": "https://example.com/images/pride-and-prejudice.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Harry Potter and the Philosopher's Stone",
+        "title": "A Novel by J.K. Rowling",
+        "price": 12.99,
+        "category": "Fantasy",
+        "imageLink": "https://example.com/images/harry-potter.jpg"
+    }
+]
